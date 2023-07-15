@@ -19,6 +19,8 @@ Butina clustering was implemented to identify smaller but homogeneous clusters, 
 ![screenshot](./Image/pic1.png)
 
 ### Automated validation
+The process of developing a pharmacophore model was conducted in MOE2015.10. Firstly, the possible conformations for each structure were initialized by 
+calculating the low-energy conformations of a set of molecules. Then, the conformations were used to generate pharmacophore queries that have good overlap in most of the actives and are separated from the inactive ones. The next step was “Global Search validation” (Automated pipeline tovalidate hundreds of pharmacophore models) by finding hits that were active and inactive by the Pharmacophore Search inMOE. The final results were automatically assessed by Python script.
 
 ![screenshot](./Image/pic2.png)
 
@@ -28,6 +30,6 @@ The study introduced the "Global Stacking" technique, which is an adaptation of 
 ![screenshot](./Image/pic3.png)
 
 # Contributors
-- [Xuan-Truc Tran Dinh](https://github.com/XuanTruc810)
+- [Xuan-Truc Tran Dinh](https://github.com/XuanTruc810) 
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
 - [Ngoc-Tuyen Truong](https://scholar.google.com/citations?hl=vi&user=qx3eMsIAAAAJ) - [Corresponding author](mailto:truongtuyen@ump.edu.vn)
