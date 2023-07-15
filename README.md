@@ -32,4 +32,10 @@ The study introduced the "Global Stacking" technique, which is an adaptation of 
 # Contributors
 - [Xuan-Truc Tran Dinh](https://github.com/XuanTruc810) 
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
+- [Hoang-Son Le Lai]()
+- [The-Chuong Trinh](https://trinhthechuong.github.io/)
+- [Gia-Bao Truong]()
+- [Nhu-Ngoc Nguyen Song]()
+- [Dong-Nghi Nguyen Hoang]()
+- [Qui-Hien Nguyen](https://orcid.org/0000-0003-4907-2614)
 - [Ngoc-Tuyen Truong](https://scholar.google.com/citations?hl=vi&user=qx3eMsIAAAAJ) - [Corresponding author](mailto:truongtuyen@ump.edu.vn)
