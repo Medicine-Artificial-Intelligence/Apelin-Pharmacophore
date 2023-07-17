@@ -34,7 +34,7 @@ The study introduced the "Global Stacking" technique, which is an adaptation of 
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
 - [Hoang-Son Le Lai]()
 - [The-Chuong Trinh](https://trinhthechuong.github.io/)
-- [Gia-Bao Truong]()
+- [Gia-Bao Truong](https://github.com/buchijw)
 - [Nhu-Ngoc Nguyen Song]()
 - [Dong-Nghi Nguyen Hoang]()
 - [Qui-Hien Nguyen](https://orcid.org/0000-0003-4907-2614)
