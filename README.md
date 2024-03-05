@@ -1,4 +1,4 @@
-# KSE-BCB2023-Pharmacophore
+# Ensemble_Pharmacophore
 
 
 
