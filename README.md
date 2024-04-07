@@ -29,6 +29,8 @@ The study introduced the "Global Stacking" technique, which is an adaptation of 
 "Stacked generalization" in 1992, applied specifically to Pharmacophore models. Stacking combines predictions from multiple models on the same data set. The Stacking model is usually divided into two levels: level-0 modes and level-1 models. Level-0 Models (Base-Models), learn directly from the dataset and make predictions for the level-1 model. And level-1 Model (Meta-Model) learns from the predictions of the base model (level-0)
 ![screenshot](./Image/pic3.png)
 
+## Publication: doi: 10.3389/fchem.2024.1382319
+
 # Contributors
 - [Xuan-Truc Tran Dinh](https://github.com/XuanTruc810) 
 - [Tieu-Long Phan](https://tieulongphan.github.io/)
